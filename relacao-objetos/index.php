@@ -1,4 +1,6 @@
 <?php
+//Associação
+//acontece quando um objeto "utiliza" o outro, mas eles nao dependem um do outro
     class Pedido {
         public $numero;
         public $cliente;
